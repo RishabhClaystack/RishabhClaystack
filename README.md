@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh Mishra from CLaystack
+- 👋 Hi, I’m @Rishabh Mishra from Claystack
 - 👀 I’m interested in Blockchain,Javascript
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on Blockchain Projects and dApps
